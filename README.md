@@ -1,6 +1,6 @@
 # Exome copy number variation detection: Use of a pool of unrelated healthy tissue as reference sample
 
-Stephane Wenric*, Tiberio Sticca*, Jean-Hubert Caberg, Claire Josse, Corinne Fasquelle, Christian Herens, Mauricette Jamar, Stéphanie Max, André Gothot, Jo Caers, Vincent Bours.
+Stephane Wenric[^\*], Tiberio Sticca[^\*], Jean-Hubert Caberg, Claire Josse, Corinne Fasquelle, Christian Herens, Mauricette Jamar, Stéphanie Max, André Gothot, Jo Caers, Vincent Bours.
 
 ## Genetic Epidemiology. 2016
 
